@@ -22,3 +22,9 @@ button {
   font-size: 20px;
   vertical-align: middle;
 }
+
+.mat-tooltip {
+  background-color: #000000cc !important;
+  color: #fff !important;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
