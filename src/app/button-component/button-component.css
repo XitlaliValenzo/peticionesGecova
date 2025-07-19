@@ -1,7 +1,7 @@
 
 .peticion-container {
   background-color: #f2f2f2;
-  border: 1px solid #ddd;
+  border: 1px solid #d4d4d4;
   padding: 0.5714rem 0.8571rem;
   display: block;
   unicode-bidi: isolate;
@@ -12,7 +12,7 @@ button {
   background-color: white;
   color: #333;
   font-weight: bold;
-  border: 1px solid #ccc;
+  border: 1px solid #dddddd;
   text-transform: none;
   border-radius: 0;
 }
