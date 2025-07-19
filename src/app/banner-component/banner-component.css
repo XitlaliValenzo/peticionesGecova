@@ -2,8 +2,9 @@
   background-image: url('../../assets/images/minsaitfotoia.png'); 
   background-size: cover;
   background-position: center;
-  height: 120px;
+  height: 100px;
   position: relative;
+  margin: 1.6%;
 }
 
 .banner-overlay {
@@ -16,6 +17,6 @@
 
 .banner-overlay h2 {
   color: white;
-  font-size: 24px;
-  font-weight: bold;
+  font-size: 20px;
+  font-weight: 500;
 }
